@@ -1,2 +1,2 @@
 # LemonChat
-Chatting through LAN
+Chatting via LAN
